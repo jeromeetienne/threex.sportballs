@@ -1,8 +1,8 @@
 threex.sportballs
 =============
 
-threex.sportballs is a three.js extension which provide an sportballs for other developpers.
-Thus they can copy it and start their own extension.
+threex.sportballs is a three.js extension which provide sport balls models.
+This is a content extension, it helps when starting new projects.
 
 Show Don't Tell
 ===============
