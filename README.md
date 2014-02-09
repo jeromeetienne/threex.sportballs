@@ -5,7 +5,7 @@ threex.sportballs is a three.js extension which provide sport balls models.
 This is a content extension, it helps when starting new projects.
 
 Show Don't Tell
-===============
+=============== 
 * [examples/basic.html](http://jeromeetienne.github.io/threex.sportballs/examples/basic.html)
 \[[view source](https://github.com/jeromeetienne/threex.sportballs/blob/master/examples/basic.html)\] :
 It shows all the balls on a single screen.
